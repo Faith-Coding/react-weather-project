@@ -11,7 +11,7 @@ export default function App() {
           This project was coded by Akhigbe Faith and is {""}
           <a
             rel="noreferrer"
-            href="https://github.com/Faith-Coding/react-weather-project"
+            href="https://github.com/faithomoighe/react-weather-app"
             target="_blank"
           >
             Open Sourced on GitHub
